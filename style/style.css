@@ -120,3 +120,17 @@ hr {
 .white-text {
   color: var(--clr-white);
 }
+
+.content-title:hover {
+  cursor: pointer;
+  color: var(--clr-cyan);
+}
+
+.white-text:hover {
+  cursor: pointer;
+  color: var(--clr-cyan);
+}
+
+.main-img:hover {
+  cursor: pointer;
+}
