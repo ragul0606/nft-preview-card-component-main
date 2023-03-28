@@ -130,16 +130,3 @@ hr {
   cursor: pointer;
   color: var(--clr-cyan);
 }
-
-.img-container {
-  width: 288px;
-  position: relative;
-}
-
-.overlay {
-  width: 288px;
-  height: 288px;
-  content: "";
-  background-color: var(--clr-cyan);
-  position: absolute;
-}
